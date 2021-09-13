@@ -4,7 +4,18 @@ I am an AI Engineer focusing on real world problems.
 
 <p> I am an energetic and enthusiastic person who enjoys challenges and is committed to achieving personal and professional goals. My present career aim is to enhance my skills by applying them in a professional working environment where I can learn and share new ideas. I am also reliable, trustworthy, hardworking person and eager to learn new things anytime and anywhere. 
 
-Currently I am focusing on following projects:
+- 🔭 I’m currently working on ...
+  
+  
+<ul>
+   <li> Object Detection </li>
+   <li> Object Classification </li>
+   <li> Reinforcement Learning Projects and Sumo </li>
+   <li> Traffic Sign Detection </li>
+   <li> Django</li>
+   <li> Web Development</li>
+   <li> Mongo DB </li>
+  </ul>
 
 </p>
 
