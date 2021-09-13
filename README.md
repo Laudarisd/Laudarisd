@@ -19,6 +19,13 @@ If you found value in something from my repository, please feel free to give me 
 </p> 
 
 
+
+![Sudip's github stats](https://github-readme-stats.vercel.app/api?username=Laudarisd&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&layout=compact&hide_border=true)
+
+
+
+
 <!--
 **Laudarisd/Laudarisd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
