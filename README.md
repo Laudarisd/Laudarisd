@@ -17,7 +17,7 @@ I am an AI Engineer focusing on real world problems.
 
 </p>
 
-If you found value in something from my repository, please feel free to give me a shout out [@laudari](https://twitter.com/laudari1) or give some ♥ on [mail](mailto:sudiplaudari@gmail.com). Feel free to reach out in case you want to just get in touch also.
+If you found value in something from my repository, please feel free to give me a shout out.
 
 📫 How to reach me: ...
 
