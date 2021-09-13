@@ -13,6 +13,7 @@ I am an AI Engineer focusing on real world problems.
    <li>🌱 Django</li>
    <li>🌱  Web Development</li>
    <li> 🌱 Mongo DB </li>
+  <li> 🌱 I am working on Blender too (It's my hobby) </li>
   </ul>
 
 </p>
