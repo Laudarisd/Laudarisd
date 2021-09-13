@@ -13,9 +13,8 @@ If you found value in something from my repository, please feel free to give me 
 <p align='center'>
 <a href="https://www.linkedin.com/in/sudip-laudari-87b782165/"><img height="30" src="./linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/laudari1"><img height="30" src="./twitter.png?raw=true"></a>&nbsp;&nbsp;
-<!-- <a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
-<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>-->
+<a href="https://www.showwcase.com/sdip/"><img height="30" src="./showcase.jpeg?raw=true"></a>&nbsp;&nbsp;
+
 </p> 
 
 
