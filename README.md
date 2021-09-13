@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+**I am an AI Engineer focusing on real world problems.**
+
+I am an energetic and enthusiastic person who enjoys challenges and is committed to achieving personal and professional goals. My present career aim is to enhance my skills by applying them in a professional working environment where I can learn and share new ideas. I am also reliable, trustworthy, hardworking person and eager to learn new things anytime and anywhere. 
+
+Currently I am focusing on following projects:
+
+
 <!--
 **Laudarisd/Laudarisd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
