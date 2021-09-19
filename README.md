@@ -2,7 +2,7 @@
 
 I am an AI Engineer focusing on real world problems. 
 
-**To check my webpage[click](https://laudarisd.github.io/) here.**
+**To check my webpage [click](https://laudarisd.github.io/) here.**
 
 🔭 I’m currently working on ...
   
