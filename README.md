@@ -9,7 +9,7 @@ I am an AI Engineer focusing on real world problems.
    <li> 🌱 Object Detection </li>
    <li> 🌱 Object Classification </li>
    <li> 🌱 Reinforcement Learning Projects and Sumo </li>
-   <li>🌱  (Traffic Sign Detection)[https://github.com/Laudarisd/Traffic_Sign_Detection_Project] </li>
+   <li href= "https://github.com/Laudarisd/Traffic_Sign_Detection_Project">🌱  Traffic Sign Detection </li>
    <li>🌱 Django</li>
    <li>🌱  Web Development</li>
    <li> 🌱 Mongo DB </li>
