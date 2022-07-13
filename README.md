@@ -14,7 +14,7 @@ I am an AI Engineer focusing on real world problems.
    <li> <a href= "https://github.com/Laudarisd/Traffic_Sign_Detection_Project">🌱  Traffic Sign Detection </a> </li>
    <li>🌱 Django</li>
    <li>🌱  Web Development</li>
-   <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data SCience</a> </li>
+   <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data Science</a> </li>
   <li> 🌱 I am working on Blender too (It's my hobby) </li>
   </ul>
 
