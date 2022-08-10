@@ -38,7 +38,7 @@
    <li><a href= "https://github.com/Laudarisd/">🌱 Django</li>
    <li><a href= "https://github.com/Laudarisd/">🌱  Web Development</a></li>
    <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data Science</a> </li>
-  <li><a href= "https://github.com/Laudarisd/">🌱 I am working on Blender too (It's my hobby) </a></li>
+  <li><a href= "https://github.com/Laudarisd/">🌱 Blender </a></li>
   </ul>
 ---
 
@@ -50,16 +50,16 @@ If you found value in something from my repository, please feel free to give me 
 <a href="mailto:sudiplaudari@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Laudari" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Laudari" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a> -->
-<!-- <a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Laudari" height="30" width="40" /></a> -->
 </p>
 
 ---
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomitokko&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tomitokko&show_icons=true&locale=en" alt="tomitokko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&locale=en" alt="Laudari" /></p>
 
 <!--
 **tomitokko/tomitokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
