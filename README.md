@@ -35,7 +35,7 @@
    <li> <a href= "https://github.com/Laudarisd/">🌱 Object Classification</a> </li>
    <li> <a href= "https://github.com/Laudarisd/">🌱 Reinforcement Learning Projects and Sumo</a> </li>
    <li> <a href= "https://github.com/Laudarisd/">🌱  Traffic Sign Detection </a> </li>
-   <li><a href= "https://github.com/Laudarisd/">🌱 Django</li>
+   <li><a href= "https://github.com/Laudarisd/django">🌱 Django</li>
    <li><a href= "https://github.com/Laudarisd/">🌱  Web Development</a></li>
    <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data Science</a> </li>
   <li><a href= "https://github.com/Laudarisd/">🌱 Blender </a></li>
