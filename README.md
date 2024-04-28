@@ -37,6 +37,7 @@
    <li> <a href= "https://github.com/Laudarisd/">🌱 Computer Vision: Object detection & Classification </a></li>
    <li> <a href= "https://github.com/Laudarisd/">🌱 Reinforcement Learning </a> </li>
    <li><a href= "https://github.com/Laudarisd/django">🌱 Web development: Django, React</li>
+   <li><a href= "https://github.com/Laudarisd/django">🌱 Mathematics & Optimization Problems</li>
   </ul>
 ---
 
