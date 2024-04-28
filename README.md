@@ -3,8 +3,8 @@
 ---
 <h1 align="center">I'm .......</h1>
 
-![YouTube Channel Subscribers](https://youtubelink)
-![Twitter Follow](https://twitterlink)
+![I don't have YouTube Channel](https://youtubelink)
+![Twitter](https://twitterlink)
 
 
 ### Check out my blog:point_right: [Click Here](https://mybloglink)
@@ -31,14 +31,12 @@
 ### About Me
 
 - I work on <ul>
-   <li> <a href= "https://github.com/Laudarisd/">🌱 Object Detection </a></li>
-   <li> <a href= "https://github.com/Laudarisd/">🌱 Object Classification</a> </li>
-   <li> <a href= "https://github.com/Laudarisd/">🌱 Reinforcement Learning Projects and Sumo</a> </li>
-   <li> <a href= "https://github.com/Laudarisd/">🌱  Traffic Sign Detection </a> </li>
-   <li><a href= "https://github.com/Laudarisd/django">🌱 Django</li>
-   <li><a href= "https://github.com/Laudarisd/">🌱  Web Development</a></li>
-   <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data Science</a> </li>
-  <li><a href= "https://github.com/Laudarisd/">🌱 Blender </a></li>
+   <li> <a href= "https://github.com/Laudarisd/">🌱 Python</a></li>
+   <li> <a href= "https://github.com/Laudarisd/">🌱 Generative AI</a></li>
+   <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data Science & Analytics</a> </li>
+   <li> <a href= "https://github.com/Laudarisd/">🌱 Computer Vision: Object detection & Classification </a></li>
+   <li> <a href= "https://github.com/Laudarisd/">🌱 Reinforcement Learning </a> </li>
+   <li><a href= "https://github.com/Laudarisd/django">🌱 Web development: Django, React</li>
   </ul>
 ---
 
@@ -62,8 +60,6 @@ If you found value in something from my repository, please feel free to give me 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&locale=en" alt="Laudari" /></p>
 
 <!--
-**tomitokko/tomitokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
