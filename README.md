@@ -7,12 +7,12 @@
 ![Twitter](https://twitterlink)
 
 
-### Check out my blog:[Click Here](https://laudarisd.github.io/)
+### Check out my blog: [Click Here](https://laudarisd.github.io/)
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomitokko&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p> -->
 
-![Banner](https://github.com/Laudarisd/Laudarisd/img/)
+<!-- ![Banner](https://github.com/Laudarisd/Laudarisd/img/) -->
 
 <h3 align="left">I enjoy:</h3>
 <p align="left"> 
