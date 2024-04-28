@@ -30,8 +30,8 @@
 <a href= "https://www.pytorch.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
 <a href="https://www.numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://www.pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://www.pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/600px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/> </a>
 
 
 <!-- Now Add Databased -->
