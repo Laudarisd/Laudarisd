@@ -81,11 +81,13 @@ If you found value in something from my repository, please feel free to give me 
 
 ---
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&locale=en" alt="Laudari" /></p>
+-->
 
 <!--
 Here are some ideas to get you started:
