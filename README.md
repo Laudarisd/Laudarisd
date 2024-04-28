@@ -15,11 +15,11 @@
 
 <!-- ![Banner](https://github.com/Laudarisd/Laudarisd/img/) -->
 
-<h3 align="left">I enjoy:</h3>
+<h2 align="left">I enjoy:</h2>
 <p align="left"> 
 
 <!-- Programming Languages- Python, js, R -->
-<h2 align="left"> Coding:</h2>
+<h3 align="left"> Coding:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -28,6 +28,8 @@
 
 
 <!-- Ml tools -->
+<h3 align="left"> AI & ML:</h3>
+
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href= "https://www.pytorch.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a>
@@ -37,14 +39,19 @@
 
 
 <!-- Add Databased -->
+<h3 align="left"> Data base management:</h3>
+
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 
 
 <!-- Add AWS -->
+<h3 align="left"> Cloud computing:</h3>
+
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 
+<h3 align="left"> Developing web:</h3>
 
 <!-- Add web  development with HTML, CSS and JavaScript -->
 <a href=" https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
@@ -52,6 +59,8 @@
 
 
 <!-- Extra -->
+<h3 align="left"> System Management & extra:</h3>
+
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 
 
