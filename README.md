@@ -59,7 +59,7 @@
 
 - I work on <ul>
    <li> <a href= "https://github.com/Laudarisd/">🌱 Python</a></li>
-   <li> <a href= "https://github.com/Laudarisd/">🌱 Generative AI</a></li>
+   <li> <a href= "https://github.com/Laudarisd/Generative-AI.git">🌱 Generative AI</a></li>
    <li>  <a href= "https://github.com/Laudarisd/Data-science-study.git"> 🌱 Data Science & Analytics</a> </li>
    <li> <a href= "https://github.com/Laudarisd/">🌱 Computer Vision: Object detection & Classification </a></li>
    <li> <a href= "https://github.com/Laudarisd/">🌱 Reinforcement Learning </a> </li>
