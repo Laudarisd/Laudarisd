@@ -5,8 +5,9 @@
 </a>
 
 
-[![My Page](img/2.svg)](https://laudarisd.github.io/)
+<!-- [<img src="img/2.svg" width="100">](https://laudarisd.github.io/)-->
 
+[<img src="img/2.svg" width="100">](https://laudarisd.github.io/)
 
 
 <!-- <a href="https://komarev.com/ghpvc/?username=alsiam">
