@@ -11,7 +11,7 @@
 <div style="width: 50px; height: 50px; overflow: hidden;">
     <a href="https://laudarisd.github.io/" style="text-decoration: none;">
         <img src="img/2.svg" width="60">
-        My Page
+        <!-- My Page -->
     </a>
 </div>
 
@@ -79,7 +79,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## My Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -109,7 +109,7 @@
 <br/>
 
 ## Top Open Source -
-[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
+[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Sudip Laudari&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management)
