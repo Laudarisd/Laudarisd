@@ -112,19 +112,10 @@
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management) -->
 
-## Top Open Source Projects
-
-[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
-![Computer Vision](https://github-readme-stats.vercel.app/api/p?username=Laudarisd&repo=Computer-Vision&show_icons=true&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
-
-[![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
-![Generative AI](https://github-readme-stats.vercel.app/api/p?username=Laudarisd&repo=Generative-AI&show_icons=true&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
-
-[![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
-![Data Science](https://github-readme-stats.vercel.app/api/p?username=Laudarisd&repo=Data-Science&show_icons=true&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
-
-[![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management)
-![Extra](https://github-readme-stats.vercel.app/api/p?username=Laudarisd&repo=Extra-Codes-System-Management&show_icons=true&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
+[![Computer Vision](https://img.shields.io/github/repo-size/Laudarisd/Computer-Vision?label=Computer%20Vision&logo=github)](https://github.com/Laudarisd/Computer-Vision)
+[![Generative AI](https://img.shields.io/github/repo-size/Laudarisd/Generative-AI?label=Generative%20AI&logo=github)](https://github.com/Laudarisd/Generative-AI)
+[![Data Science](https://img.shields.io/github/repo-size/Laudarisd/Data-Science?label=Data%20Science&logo=github)](https://github.com/Laudarisd/Data-Science)
+[![Extra](https://img.shields.io/github/repo-size/Laudarisd/Extra-Codes-System-Management?label=Extra&logo=github)](https://github.com/Laudarisd/Extra-Codes-System-Management)
 
 
 
