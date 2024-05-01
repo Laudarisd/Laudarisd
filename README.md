@@ -61,12 +61,12 @@
 <p>
  <img align="right" width="200", src="img/1.gif" alt="Coding gif" />
   
-✌️ Passionate about programming and sharing knowledge in AI, ML, and Data Science.
-❤️ Enjoy coding and exploring new features in AI and ML technologies.
-📊 Experienced in data science, analyzing data to extract valuable insights.
-👨‍💻 Always seeking new challenges.
-🌱 Currently focusing on Generative AI and cutting-edge AI solutions.
-💬 Have questions about AI, ML, or data science? Feel free to ask me!
+✌️ Passionate about programming and sharing knowledge in AI, ML, and Data Science.<br/><br/>
+❤️ Enjoy coding and exploring new features in AI and ML technologies.<br/><br/>
+📊 Experienced in data science, analyzing data to extract valuable insights.<br/><br/>
+👨‍💻 Always seeking new challenges.<br/><br/>
+🌱 Currently focusing on Generative AI and cutting-edge AI solutions.<br/><br/>
+💬 Have questions about AI, ML, or data science? Feel free to ask me!<br/><br/>
 
 
 
