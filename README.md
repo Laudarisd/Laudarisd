@@ -107,10 +107,6 @@
 <br/>
 
 ## Top Open Source -
-## About
-
-This repository contains a diverse range of projects related to computer vision, deep learning, and more.
-
 [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
@@ -126,13 +122,13 @@ This repository contains a diverse range of projects related to computer vision,
 
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudip Laudari&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudip Laudari&theme=radical&border=7F3FBF&background=0D1117" alt="Laudari's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=radical" alt="Sudip Laudari's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=radical" alt="Laudari's GitHub Contribution"/>
   </a>
 </p>
 
