@@ -117,14 +117,14 @@
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&theme=radical)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management)
 
-![Stars](https://img.shields.io/github/stars/Laudarisd/Computer-Vision?style=for-the-badge)
+<!-- ![Stars](https://img.shields.io/github/stars/Laudarisd/Computer-Vision?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Laudarisd/Computer-Vision?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Laudarisd/Generative-AI?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Laudarisd/Generative-AI?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Laudarisd/Data-Science?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Laudarisd/Data-Science?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Laudarisd/Extra-Codes-System-Management?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Laudarisd/Extra-Codes-System-Management?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Laudarisd/Extra-Codes-System-Management?style=for-the-badge) -->
 
 
 
