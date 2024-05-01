@@ -112,10 +112,19 @@
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management) -->
 
-[![Computer Vision](https://img.shields.io/github/repo-size/Laudarisd/Computer-Vision?label=Computer%20Vision&logo=github)](https://github.com/Laudarisd/Computer-Vision)
-[![Generative AI](https://img.shields.io/github/repo-size/Laudarisd/Generative-AI?label=Generative%20AI&logo=github)](https://github.com/Laudarisd/Generative-AI)
-[![Data Science](https://img.shields.io/github/repo-size/Laudarisd/Data-Science?label=Data%20Science&logo=github)](https://github.com/Laudarisd/Data-Science)
-[![Extra](https://img.shields.io/github/repo-size/Laudarisd/Extra-Codes-System-Management?label=Extra&logo=github)](https://github.com/Laudarisd/Extra-Codes-System-Management)
+[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=radical)](https://github.com/Laudarisd/Computer-Vision)
+[![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI)
+[![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&theme=radical)](https://github.com/Laudarisd/Data-Science)
+[![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management)
+
+![Stars](https://img.shields.io/github/stars/Laudarisd/Computer-Vision?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Laudarisd/Computer-Vision?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Laudarisd/Generative-AI?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Laudarisd/Generative-AI?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Laudarisd/Data-Science?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Laudarisd/Data-Science?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Laudarisd/Extra-Codes-System-Management?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Laudarisd/Extra-Codes-System-Management?style=for-the-badge)
 
 
 
