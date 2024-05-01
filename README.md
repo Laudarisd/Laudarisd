@@ -106,7 +106,7 @@
 ![GPU](https://img.shields.io/badge/GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br/>
 
-## Top Open Source -
+## My Main Open Source Repositories -
 <!-- [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
