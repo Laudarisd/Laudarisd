@@ -104,7 +104,7 @@
 ![Server Management](https://img.shields.io/badge/Server_Management-000000?style=for-the-badge&logo=ubuntu&logoColor=F37626)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GPU](https://img.shields.io/badge/GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV] (https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 <br/>
 
 ## Main Open Source Repositories -
