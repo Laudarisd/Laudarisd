@@ -61,14 +61,12 @@
 <p>
  <img align="right" width="200", src="img/1.gif" alt="Coding gif" />
   
-✌️   Passionate about programming and sharing knowledge in AI, ML and Data Science<br/><br/>
-<!-- Add generative Ai -->
-❤️   Enjoy coding and exploring new features in AI and ML technologies<br/><br/>
-📊   Experienced in data science, analyzing data to extract valuable insights<br/><br/>
-<!-- 📧   Feel free to reach out to me at: SudipLaudari.dev@gmail.com<br/><br/> -->
-👨‍💻   I am always looking for new challenges<br/><br/>
-🌱   Currently focusing on Generative AI and AI edge cutting solution<br/><br/>
-💬   Have questions about AI, ML, or data science? Ask me here
+✌️ Passionate about programming and sharing knowledge in AI, ML, and Data Science.
+❤️ Enjoy coding and exploring new features in AI and ML technologies.
+📊 Experienced in data science, analyzing data to extract valuable insights.
+👨‍💻 Always seeking new challenges.
+🌱 Currently focusing on Generative AI and cutting-edge AI solutions.
+💬 Have questions about AI, ML, or data science? Feel free to ask me!
 
 
 
