@@ -109,10 +109,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/web-projects)
-[![Sudip Laudari Readme](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Sudip Laudari&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Laudarisd)
+[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
+[![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
+[![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
+[![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Sudip Laudari&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management)
 
 <p align="left">
   <a href="https://github.com/Laudarisd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
