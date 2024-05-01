@@ -26,7 +26,7 @@
 
 <p align="center"> 
   <samp>
-    <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
+    <!-- <a href="https://www.google.com/search?q= Sudip + Laudari">「 Google Me 」</a> -->
     <a>
     I am an AI/ML engineer and Data Scientist.
     </a>
@@ -139,4 +139,4 @@
 </a>
 
 
-![Sudip Laudari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sudip Laudari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Laudari%'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
