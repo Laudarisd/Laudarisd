@@ -107,18 +107,7 @@
 <br/>
 
 ## Top Open Source -
-<!-- [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision) -->
-
-## Top Open Source Projects
-
 [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
-
-<details>
-  <summary>Repository Description</summary>
-
-  This repository contains a diverse range of projects related to computer vision, deep learning, and more. It includes projects on object detection, image segmentation, facial recognition, and more. Feel free to explore and contribute!
-
-</details>
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management)
