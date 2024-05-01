@@ -112,10 +112,14 @@
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management) -->
 
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-Projects-7F3FBF?style=for-the-badge&logo=github)](https://github.com/Laudarisd/Computer-Vision)
-[![Generative AI](https://img.shields.io/badge/Generative_AI-Projects-7F3FBF?style=for-the-badge&logo=github)](https://github.com/Laudarisd/Generative-AI)
-[![Data Science](https://img.shields.io/badge/Data_Science-Projects-7F3FBF?style=for-the-badge&logo=github)](https://github.com/Laudarisd/Data-Science)
-[![Extra](https://img.shields.io/badge/Extra_Projects-7F3FBF?style=for-the-badge&logo=github)](https://github.com/Laudarisd/Extra-Codes-System-Management)
+<div style="background-color: #0D1117; border: 1px solid #7F3FBF; padding: 20px; margin-bottom: 20px;">
+  <h3 style="color: #C9D1D9;">Computer Vision</h3>
+  <p style="color: #8B949E;">This repository contains a diverse range of projects related to computer vision, deep learning, and more. From studying and researching computer vision techniques to implementing people tracking, reinforcement learning, classification, GNN, and more.</p>
+  <p style="color: #8B949E;">Language: Python</p>
+  <p style="color: #8B949E;">Forks: 10 | Stars: 20</p>
+  <a href="https://github.com/Laudarisd/Computer-Vision" style="color: #7F3FBF;">Explore</a>
+</div>
+
 
 
 <p align="left">
