@@ -122,7 +122,7 @@
 
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudip Laudari&theme=radical&border=7F3FBF&background=0D1117" alt="Laudari's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laudarisd&theme=radical&border=7F3FBF&background=0D1117" alt="Laudari's GitHub streak"/>
   </a>
 </p>
 
