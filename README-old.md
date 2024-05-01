@@ -1,4 +1,4 @@
-### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/1.gif">, welcome to my profile.
+### Hi there <img width="20" height="20" src="img/1.gif">, welcome to my profile.
 
 ---
 <h1 align="center">I'm .......</h1>

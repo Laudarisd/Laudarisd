@@ -30,10 +30,9 @@
 <p align="center"> 
   <samp>
     <!-- <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a> -->
-    <br>
-    「 I am an AI/ML engineer and Data Scientist.」
-    <br>
-    <br>
+    <a>
+    I am an AI/ML engineer and Data Scientist.
+    </a>
   </samp>
 </p>
 
@@ -63,7 +62,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="img/1.gif" alt="Coding gif" />
   
  ✌️   Passionate about programming and sharing knowledge in AI and ML, with a focus on Generative AI<br/><br/>
 ❤️   Enjoy coding and exploring new features in AI and ML technologies<br/><br/>
