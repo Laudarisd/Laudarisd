@@ -5,9 +5,12 @@
 </a>
 
 
-<!-- [<img src="img/2.svg" width="100">](https://laudarisd.github.io/)-->
-
-[<img src="img/2.svg" width="100">](https://laudarisd.github.io/)
+<!-- [<img src="img/2.svg" width="100">](https://laudarisd.github.io/) -->
+<div style="width: 50px; height: 50px; overflow: hidden;">
+    <a href="https://laudarisd.github.io/" style="text-decoration: none;">
+        <img src="img/2.svg" width="100">
+    </a>
+</div>
 
 
 <!-- <a href="https://komarev.com/ghpvc/?username=alsiam">
