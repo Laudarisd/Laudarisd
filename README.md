@@ -5,7 +5,7 @@
 </a>
 
 
-[![My Page](https://laudarisd.github.io/)](https://laudarisd.github.io/)
+[![My Page](img/2.svg)](https://laudarisd.github.io/)
 
 
 
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sudip Laudari" />
  </a> 
  <a href="https://www.researchgate.net/profile/Sudip-Laudari" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=researchgate&logoColor=white" alt="Sudip Laudari"  />
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Sudip Laudari"  />
   </a> 
 </p>
 <br />
