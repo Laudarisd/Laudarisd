@@ -81,7 +81,7 @@
 
 ## Use To Code
 
-![Pyhton] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
@@ -93,7 +93,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
-![SQl] (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -105,7 +105,7 @@
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Server Management](https://img.shields.io/badge/Server_Management-000000?style=for-the-badge&logo=ubuntu&logoColor=F37626)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GPU] (https://img.shields.io/badge/GPU-76B900?style=for-the-badge&labelColor=black&logo=nvidia&logoColor=76B900)
+![GPU](https://img.shields.io/badge/GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br/>
 
 ## Top Open Source -
