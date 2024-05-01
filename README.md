@@ -9,8 +9,10 @@
 <div style="width: 50px; height: 50px; overflow: hidden;">
     <a href="https://laudarisd.github.io/" style="text-decoration: none;">
         <img src="img/2.svg" width="100">
+        My Page
     </a>
 </div>
+
 
 
 <!-- <a href="https://komarev.com/ghpvc/?username=alsiam">
