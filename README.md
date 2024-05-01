@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sudip Laudari" />
  </a> 
  <a href="https://www.researchgate.net/profile/Sudip-Laudari" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Sudip Laudari"  />
+  <img src="https://logowik.com/content/uploads/images/researchgate1714.jpg" alt="Sudip Laudari"  />
   </a> 
 </p>
 <br />
@@ -62,7 +62,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="img/1.gif" alt="Coding gif" />
+ <img align="right" width="200", height="200", src="img/1.gif" alt="Coding gif" />
   
  ✌️   Passionate about programming and sharing knowledge in AI and ML, with a focus on Generative AI<br/><br/>
 ❤️   Enjoy coding and exploring new features in AI and ML technologies<br/><br/>
