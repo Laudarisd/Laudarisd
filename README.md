@@ -121,6 +121,8 @@
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&show_owner=false&theme=radical)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&show_owner=false&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management)
+[![GIS](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS&show_owner=false&theme=radical)](https://github.com/Laudarisd/GIS-Project.git)
+[![MLOps](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&show_owner=false&theme=radical)](https://github.com/Laudarisd/MLOps)
 
 
 
