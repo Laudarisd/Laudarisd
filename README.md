@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
- <a href="https://laudarisd.github.io/" target="blank">
+ <a href="https://laudarisd.github.io/aiml.github.io/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Sudip Laudari" />
  </a>
  <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
