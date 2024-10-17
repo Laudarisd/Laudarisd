@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
  <a href="https://www.codewars.com/users/wintermouse" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
 </p>
 <br />
