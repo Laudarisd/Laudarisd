@@ -72,9 +72,15 @@
 <! -- Leetcode -->
 # Leetcode
 
+![Leetcode](https://leetcode.com/u/dbBO1xrtst/)
+![HackerRank](https://www.hackerrank.com/profile/sudiplaudari)
+![Codewar](https://www.codewars.com/users/wintermouse)
 
 
-https://leetcode.com/u/dbBO1xrtst/
+
+
+
+
 
 
 </p>
