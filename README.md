@@ -74,13 +74,13 @@
 
 <p align="center">
  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
-  <img src="https://www.svgrepo.com/show/306328/leetcode.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://github.com/Laudarisd/Laudarisd/blob/main/img/leetcode.png?raw=true?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
-  <img src="https://www.hackerrank.com/dashboard?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://github.com/Laudarisd/Laudarisd/blob/main/img/hacker_rank.png?raw=true?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
  <a href="https://www.codewars.com/users/wintermouse" target="_blank">
-  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://raw.githubusercontent.com/Laudarisd/Laudarisd/f6d42b7ff1115c546e72dac6d2bec8d35dad3752/img/code_war.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
 </p>
 <br />
