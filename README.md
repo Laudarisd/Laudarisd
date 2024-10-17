@@ -74,7 +74,7 @@
 
 <p align="center">
  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
