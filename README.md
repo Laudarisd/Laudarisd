@@ -69,8 +69,21 @@
 💬 Have questions about AI, ML, or data science? Feel free to ask me!<br/><br/>
 
 
-<! -- Leetcode -->
+<!-- Leetcode -->
 # Leetcode
+
+<p align="center">
+ <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+ </a>
+ <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+ </a>
+ <a href="https://www.codewars.com/users/wintermouse" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+ </a>
+</p>
+<br />
 
 ![Leetcode](https://leetcode.com/u/dbBO1xrtst/)
 ![HackerRank](https://www.hackerrank.com/profile/sudiplaudari)
