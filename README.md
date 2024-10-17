@@ -77,7 +77,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
  </a>
  <a href="https://www.codewars.com/users/wintermouse" target="_blank">
   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
