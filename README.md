@@ -74,21 +74,17 @@
 
 <p align="center">
  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
-  <img src="https://github.com/Laudarisd/Laudarisd/blob/main/img/leetcode.png?raw=true?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://github.com/Laudarisd/Laudarisd/blob/main/img/leetcode.png?raw=true" alt="Sudip Laudari" width="100" height="100"/>
  </a>
  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
-  <img src="https://github.com/Laudarisd/Laudarisd/blob/main/img/hacker_rank.png?raw=true?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://github.com/Laudarisd/Laudarisd/blob/main/img/hacker_rank.png?raw=true" alt="Sudip Laudari" width="100" height="100"/>
  </a>
  <a href="https://www.codewars.com/users/wintermouse" target="_blank">
-  <img src="https://raw.githubusercontent.com/Laudarisd/Laudarisd/f6d42b7ff1115c546e72dac6d2bec8d35dad3752/img/code_war.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
+  <img src="https://raw.githubusercontent.com/Laudarisd/Laudarisd/f6d42b7ff1115c546e72dac6d2bec8d35dad3752/img/code_war.svg" alt="Sudip Laudari" width="100" height="100"/>
  </a>
 </p>
+
 <br />
-
-![Leetcode](https://leetcode.com/u/dbBO1xrtst/)
-![HackerRank](https://www.hackerrank.com/profile/sudiplaudari)
-![Codewar](https://www.codewars.com/users/wintermouse)
-
 
 
 
