@@ -43,12 +43,12 @@
  <!-- <a href="https://dev.to/Sudip Laudari" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Sudip Laudari" />
  </a> -->
- <a href="https://twitter.com/" target="_blank">
+<!--  <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/laudarisd/" target="_blank">
+ </a> -->
+<!--  <a href="https://www.instagram.com/laudarisd/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sudip Laudari" />
- </a> 
+ </a>  -->
  <a href="https://www.researchgate.net/profile/Sudip-Laudari" target="_blank">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Sudip Laudari"  />
   </a> 
