@@ -127,13 +127,21 @@
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&theme=radical)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management) -->
-<--! [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=radical)](https://github.com/Laudarisd/Computer-Vision)
+[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=radical)](https://github.com/Laudarisd/Computer-Vision)
 [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI)
 [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&show_owner=false&theme=radical)](https://github.com/Laudarisd/Data-Science)
 [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&show_owner=false&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management)
 [![GIS](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&show_owner=false&theme=radical)](https://github.com/Laudarisd/GIS-Project.git)
 [![MLOps](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&show_owner=false&theme=radical)](https://github.com/Laudarisd/MLOps)
-[![Vision_Transformer](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&show_owner=false&theme=radical&cache=1)](https://github.com/Laudarisd/Vision-Transformer) -->
+[![Vision_Transformer](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&show_owner=false&theme=radical&cache=1)](https://github.com/Laudarisd/Vision-Transformer)
+
+
+
+| [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=radical)](https://github.com/Laudarisd/Computer-Vision) | [![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&show_owner=false&theme=radical)](https://github.com/Laudarisd/Data-Science) | [![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&show_owner=false&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management) |
+| [![GIS](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&show_owner=false&theme=radical)](https://github.com/Laudarisd/GIS-Project.git) | [![MLOps](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&show_owner=false&theme=radical)](https://github.com/Laudarisd/MLOps) |
+| [![Vision_Transformer](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&show_owner=false&theme=radical)](https://github.com/Laudarisd/Vision-Transformer) | |
 
 
 
