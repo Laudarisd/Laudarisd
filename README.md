@@ -134,6 +134,9 @@
 [![GIS](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&show_owner=false&theme=radical)](https://github.com/Laudarisd/GIS-Project.git)
 [![MLOps](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&show_owner=false&theme=radical)](https://github.com/Laudarisd/MLOps)
 
+[![Vision Transformer (ViT)](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision_Transformer&show_owner=false&theme=radical)](https://github.com/Laudarisd/Vision_Transformer)
+
+
 
 
 <p align="left">
