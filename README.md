@@ -134,7 +134,7 @@
 [![GIS](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&show_owner=false&theme=radical)](https://github.com/Laudarisd/GIS-Project.git)
 [![MLOps](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&show_owner=false&theme=radical)](https://github.com/Laudarisd/MLOps)
 [![Vision_Transformer](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&show_owner=false&theme=radical&cache=1)](https://github.com/Laudarisd/Vision-Transformer)
-[![Vision_Transformer](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&show_owner=false&theme=radical&cache=1)](https://github.com/Laudarisd/Vision-Transformer)
+[![Pose-Detection-Annotation-Tool](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Pose-Detection-Annotation-Tool&show_owner=false&theme=radical&cache=1)](https://github.com/Laudarisd/Pose-Detection-Annotation-Tool.git)
 
 
 
