@@ -43,16 +43,14 @@
 
 ## 👋 <span style="color:#F2B84B">About Me</span>
 
-<!-- <p align="left">
-  <img align="right" src="img/1.gif" width="250" alt="Coding GIF" />
-</p> -->
+<p align="left">
+  <img align="right" src="img/1.gif" width="150" alt="Coding GIF" />
+</p>
 
-<div style="float: right; text-align: center; width: 160px;">
-  <img src="img/1.gif" width="150" alt="Coding GIF" />
-  <div style="font-style: italic; font-weight: bold; color: #0D0D0D; background-color: #F2B84B; font-size: 10px; padding: 5px 10px; border-radius: 10px; margin-top: 6px;">
-    ✨ I code with coffee☕
-  </div>
-</div>
+<!-- <img src="img/1.gif" width="150" align="right"><br> -->
+<!-- <p><b><i style="color:#F2B84B;">✨ I code with coffee ☕</i></b></p> -->
+
+
 
 
 
@@ -85,6 +83,7 @@
 
 > 💬 _If you have questions about AI, ML, LLMs, or just want to connect — feel free to reach out!_
 
+#<p><b><i style="color:#F2B84B;">✨ I code with coffee ☕</i></b></p>
 
 <br/>
 
