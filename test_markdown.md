@@ -39,22 +39,12 @@
 </p>
 
 ---
-<!-- About Section -->
 
 ## 👋 <span style="color:#F2B84B">About Me</span>
 
-<!-- <p align="left">
+<p align="left">
   <img align="right" src="img/1.gif" width="250" alt="Coding GIF" />
-</p> -->
-
-<div style="float: right; text-align: center; width: 160px;">
-  <img src="img/1.gif" width="150" alt="Coding GIF" />
-  <div style="font-style: italic; font-weight: bold; color: #0D0D0D; background-color: #F2B84B; font-size: 10px; padding: 5px 10px; border-radius: 10px; margin-top: 6px;">
-    ✨ I code with coffee☕
-  </div>
-</div>
-
-
+</p>
 
 ✨ Passionate about **programming**, **AI**, and **Data Science** — I love solving problems and building innovative solutions.  
 <br>
