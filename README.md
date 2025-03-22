@@ -84,11 +84,27 @@
 
 > 💬 _“Have a question about AI, ML, or just want to say hi? Feel free to reach out!”_
 
-<a href="https://www.buymeacoffee.com/laudari" target="_blank">
-  <p style="font-style: italic; font-weight: bold; color: #F2B84B; background-color: #ffffff; border: 1px solid #F2B84B; font-size: 14px; padding: 6px 12px; border-radius: 10px; display: inline-block; margin-top: 10px; text-decoration: none;">
-    👉 Let’s share a coffee <span style="font-size: 20px;">☕</span>
+<a href="https://www.buymeacoffee.com/laudari" target="_blank" style="text-decoration: none;">
+  <p style="
+    font-style: italic;
+    font-weight: bold;
+    color: #0D0D0D;
+    background-color: #F2B84B;
+    border: 2px solid #F2B84B;
+    font-size: 15px;
+    padding: 10px 18px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 14px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+  ">
+    👉 Let’s share a coffee <span style="font-size: 22px;">☕</span>
   </p>
 </a>
+
+
+<!-- [![Let's share a coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F2B84B?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/laudari) -->
+
 
 
 
