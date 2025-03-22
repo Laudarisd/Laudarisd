@@ -1,154 +1,235 @@
 
-<!-- Visitor counts -->
-
-<a href="https://komarev.com/ghpvc/?username=Laudarisd">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Laudarisd&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<!-- Visitor Counter -->
+<a href="https://komarev.com/ghpvc/?username=Laudarisd" target="_blank">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Laudarisd&label=Visitors&color=F2B84B&style=flat-square" alt="Profile Visitor Counter"/>
 </a>
 
-
-<!-- My page section -->
-<!-- [<img src="img/2.svg" width="100">](https://laudarisd.github.io/) -->
-<div style="width: 50px; height: 50px; overflow: hidden;">
-    <a href="https://laudarisd.github.io/" style="text-decoration: none;">
-        <img src="img/2.svg" width="60">
-        <!-- My Page -->
-    </a>
-</div>
+<!-- Personal Logo / Icon Section -->
+<p align="left">
+  <a href="https://laudarisd.github.io/" target="_blank">
+    <img src="img/2.svg" width="80" alt="My Website Logo" />
+  </a>
+</p>
 
 
-<!-- Intro  -->
+<!-- Intro Heading -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> <span style="color:#F2B84B">Hey There!</span>
+</h1>
+
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://laudarisd.github.io/">Sudip Laudari</a></b>
-        </samp>
+  I am <b><a href="https://laudarisd.github.io/" target="_blank" style="color:#F2B84B;">Sudip Laudari</a></b>
 </h3>
 
-
-<p align="center"> 
-  <samp>
-    <!-- <a href="https://www.google.com/search?q= Sudip + Laudari">「 Google Me 」</a> -->
-    <a>
-    I am an AI/ML engineer and Data Scientist.
-    </a>
-  </samp>
+<p align="center" style="color:#94C973;">
+  AI/ML Engineer & Data Scientist | Generative AI • Vision • GIS • MLOps
 </p>
+
+<!-- Social / Contact Buttons -->
+<p align="center">
+  <a href="https://laudarisd.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/My Website-F2B84B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Sudip-Laudari" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+</p>
+
+---
+
+## 👋 <span style="color:#F2B84B">About Me</span>
+
+<p align="left">
+  <img align="right" src="img/1.gif" width="250" alt="Coding GIF" />
+</p>
+
+✨ Passionate about **programming**, **AI**, and **Data Science** — I love solving problems and building innovative solutions.  
+<br>
+
+💡 Continuously exploring advancements in **Machine Learning**, **Deep Learning**, and **Generative AI**.  
+<br>
+
+📊 Experienced in **data analysis**, uncovering insights from complex datasets using statistical and ML techniques.  
+<br>
+
+🌍 Skilled in **Geo-Spatial Analysis**, **GIS tools**, and **Remote Sensing Data Processing** for spatial intelligence and environmental insights.  
+<br>
+
+🔍 Currently focusing on cutting-edge domains like **LLMs**, **MLOps**, and **GenAI applications**.  
+<br>
+
+💻 Proficient in a wide range of tools: `Python`, `TensorFlow`, `PyTorch`, `Pandas`, `SQL`, and more.  
+<br>
+
+🌐 Also skilled in **web development**, **server deployment**, and **Linux-based systems**.  
+<br>
+
+📚 Love sharing knowledge and contributing to the open-source AI/ML community.  
+<br>
+
+🙋‍♂️ Always open to collaboration, new challenges, and learning opportunities!  
+<br>
+
+> 💬 _If you have questions about AI, ML, LLMs, or just want to connect — feel free to reach out!_
+
+
+<br/>
+
+
+--- 
+
+## 📌 <span style="color:#F2B84B">My Skills & Tools</span>
+
+### 🤖 AI & Machine Learning
+![AI](https://img.shields.io/badge/AI-F2B84B?style=for-the-badge&logo=airbnb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F2B84B?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-F2B84B?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-F2B84B?style=for-the-badge&logo=knowledgebase&logoColor=white)
+
+### 🛰️ Geo-Spatial & Remote Sensing
+![GIS](https://img.shields.io/badge/GIS-F2B84B?style=for-the-badge&logo=mapbox&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-94C973?style=for-the-badge&logo=earth&logoColor=white)
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-F2B84B?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+
+### 🧠 Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🧮 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Mathematics](https://img.shields.io/badge/Mathematics-94C973?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ MLOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Server](https://img.shields.io/badge/Server_Management-F28500?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+---
+<!-- Coding Challenge Section with Logos -->
+## 💻 <span style="color:#F2B84B">Where I Sharpen My Coding Skills</span>
 
 <p align="center">
- <a href="https://laudarisd.github.io/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Sudip Laudari" />
- </a>
- <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sudip Laudari"/>
- </a>
- <!-- <a href="https://dev.to/Sudip Laudari" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Sudip Laudari" />
- </a> -->
- <a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/laudarisd/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sudip Laudari" />
- </a> 
- <a href="https://www.researchgate.net/profile/Sudip-Laudari" target="_blank">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Sudip Laudari"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="200", src="img/1.gif" alt="Coding gif" />
-  
-✌️ Passionate about programming and sharing knowledge in AI, ML, and Data Science.<br/><br/>
-❤️ Enjoy coding and exploring new features in AI and ML technologies.<br/><br/>
-📊 Experienced in data science, analyzing data to extract valuable insights.<br/><br/>
-👨‍💻 Always seeking new challenges.<br/><br/>
-🌱 Currently focusing on Generative AI and cutting-edge AI solutions.<br/><br/>
-💬 Have questions about AI, ML, or data science? Feel free to ask me!<br/><br/>
-
-
-
-
+  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" alt="LeetCode" title="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="100" alt="HackerRank" title="HackerRank Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/wintermouse" target="_blank">
+    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="100" alt="Codewars" title="Codewars Profile" />
+  </a>
 </p>
 
-<br/>
-<br/>
-<br/>
+<p align="center" style="color:#94C973;">
+  Explore my profiles on LeetCode, HackerRank, and Codewars – where I keep my problem-solving sharp.
+</p>
 
-## My Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
-![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=8CAAE6)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&labelColor=black&logo=matplotlib&logoColor=11557C)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232F3E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)
-![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Server Management](https://img.shields.io/badge/Server_Management-000000?style=for-the-badge&logo=ubuntu&logoColor=F37626)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GPU](https://img.shields.io/badge/GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-<br/>
 
-## Main Open Source Repositories -
-<!-- [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Computer-Vision)
-[![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Generative-AI)
-[![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Data-Science)
-[![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Laudarisd/Extra-Codes-System-Management) -->
 
-<!-- [![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=radical)](https://github.com/Laudarisd/Computer-Vision)
-[![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI)
-[![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&theme=radical)](https://github.com/Laudarisd/Data-Science)
-[![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management) -->
-[![Computer Vision](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=radical)](https://github.com/Laudarisd/Computer-Vision)
-[![Generative AI](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=radical)](https://github.com/Laudarisd/Generative-AI)
-[![Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&show_owner=false&theme=radical)](https://github.com/Laudarisd/Data-Science)
-[![Extra](https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&show_owner=false&theme=radical)](https://github.com/Laudarisd/Extra-Codes-System-Management)
+---
 
+## 📂 <span style="color:#F2B84B">Main Open Source Repositories</span>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Laudarisd/Computer-Vision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Computer Vision" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Laudarisd/Generative-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Generative AI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Laudarisd/Data-Science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&show_owner=false&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Data Science" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Laudarisd/Extra-Codes-System-Management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&show_owner=false&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Extra Codes System Management" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Laudarisd/Vision-Transformer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Vision Transformer" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Laudarisd/Gis-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Gis-Project&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="GIS Project" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="left">
-  <a href="https://github.com/Laudarisd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Laudarisd?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-F2B84B?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
 </p>
 
-<br/>
-<hr/>
-<br/>
 
+---
+
+<!-- GitHub Stats Section - Theme Matching -->
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laudarisd&theme=radical&border=7F3FBF&background=0D1117" alt="Laudari's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laudarisd&theme=default&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500&currStreakNum=F2B84B" alt="Laudari's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=radical" alt="Laudari's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&border_color=F2B84B&icon_color=F2B84B" alt="GitHub Contribution" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Laudarisd"><img alt="Sudip Laudari's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Laudarisd"><img alt="Sudip Laudari's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+<a>
+  <a href="https://github.com/Laudarisd">
+    <img alt="Sudip Laudari's Github Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&border_color=F2B84B"
+      height="192px" width="49.5%" />
+  </a>
+  <a href="https://github.com/Laudarisd">
+    <img alt="Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&langs_count=8&layout=compact&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&border_color=F2B84B"
+      height="192px" width="49.5%" />
+  </a>
 </a>
 
+<!-- Activity Graph -->
+![Sudip Laudari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Sudip%20Laudari's%20GitHub%20Activity%20Graph&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F)
 
-![Sudip Laudari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Laudari%'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+---
