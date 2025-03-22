@@ -43,47 +43,55 @@
 
 ## 👋 <span style="color:#F2B84B">About Me</span>
 
-<p align="left">
+<!-- <p align="left">
   <img align="right" src="img/1.gif" width="150" alt="Coding GIF" />
-</p>
+</p> -->
+
+<img src="img/1.gif" align="right" width="200" alt="Coding GIF">
+
 
 <!-- <img src="img/1.gif" width="150" align="right"><br> -->
 <!-- <p><b><i style="color:#F2B84B;">✨ I code with coffee ☕</i></b></p> -->
 
+<!-- #### ✨ <span style="color:#F2B84B">I’m a passionate technologist who blends code, creativity, and curiosity.</span> -->
+
+- 🧠 **Programming | AI | Data Science**  
+   I love solving complex problems and building intelligent solutions.
+
+- 💡 **Always exploring:**  
+   *Machine Learning, Deep Learning, and Generative AI are my playground.*
+
+- 📊 **Data Analysis Expert**  
+   I turn messy data into meaningful insights using advanced ML & statistics.
+
+- 🌍 **Geo-Spatial Intelligence | GIS | Remote Sensing**  
+   From earth observation to smart mapping — I analyze the world from above.
+
+- 🔍 **Focused on:**  
+   `LLMs`, `MLOps`, and next-gen **Generative AI Applications**
+
+- 💻 **Tech Stack I ❤️ working with:**  
+   `Python`, `TensorFlow`, `PyTorch`, `Pandas`, `SQL`, and many more.
+
+- 🌐 **Beyond AI:**  
+   I build modern web apps, deploy on Linux servers, and manage cloud-based pipelines.
+
+- 📚 **Community-driven:**  
+   I love sharing knowledge, contributing to open-source, and mentoring others.
+
+- 🤝 **Let’s connect & collaborate:**  
+   I’m always open to meaningful projects and new challenges.
+
+> 💬 _“Have a question about AI, ML, or just want to say hi? Feel free to reach out!”_
+
+<a href="https://www.buymeacoffee.com/laudari" target="_blank">
+  <p style="font-style: italic; font-weight: bold; color: #F2B84B; background-color: #ffffff; border: 1px solid #F2B84B; font-size: 14px; padding: 6px 12px; border-radius: 10px; display: inline-block; margin-top: 10px; text-decoration: none;">
+    👉 Let’s share a coffee <span style="font-size: 20px;">☕</span>
+  </p>
+</a>
 
 
 
-
-✨ Passionate about **programming**, **AI**, and **Data Science** — I love solving problems and building innovative solutions.  
-<br>
-
-💡 Continuously exploring advancements in **Machine Learning**, **Deep Learning**, and **Generative AI**.  
-<br>
-
-📊 Experienced in **data analysis**, uncovering insights from complex datasets using statistical and ML techniques.  
-<br>
-
-🌍 Skilled in **Geo-Spatial Analysis**, **GIS tools**, and **Remote Sensing Data Processing** for spatial intelligence and environmental insights.  
-<br>
-
-🔍 Currently focusing on cutting-edge domains like **LLMs**, **MLOps**, and **GenAI applications**.  
-<br>
-
-💻 Proficient in a wide range of tools: `Python`, `TensorFlow`, `PyTorch`, `Pandas`, `SQL`, and more.  
-<br>
-
-🌐 Also skilled in **web development**, **server deployment**, and **Linux-based systems**.  
-<br>
-
-📚 Love sharing knowledge and contributing to the open-source AI/ML community.  
-<br>
-
-🙋‍♂️ Always open to collaboration, new challenges, and learning opportunities!  
-<br>
-
-> 💬 _If you have questions about AI, ML, LLMs, or just want to connect — feel free to reach out!_
-
-#<p><b><i style="color:#F2B84B;">✨ I code with coffee ☕</i></b></p>
 
 <br/>
 
