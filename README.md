@@ -18,7 +18,7 @@
 </h1>
 
 <h3 align="center">
-  I am <b><a href="https://laudarisd.github.io/" target="_blank" style="color:#F2B84B;">Sudip Laudari</a></b>
+  I am <b><a href="https://laudarisd.github.io/" target="_blank" style="color:#F2B84B;">Sudip</a></b>
 </h3>
 
 <p align="center" style="color:#94C973;">
