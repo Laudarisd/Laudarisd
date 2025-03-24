@@ -234,7 +234,7 @@
 
 <a>
   <a href="https://github.com/Laudarisd">
-    <img alt="Sudip Laudari's Github Stats"
+    <img alt="Sudip's Github Stats"
       src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&border_color=F2B84B"
       height="192px" width="49.5%" />
   </a>
