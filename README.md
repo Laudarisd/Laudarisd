@@ -222,7 +222,7 @@
 <!-- GitHub Stats Section - Theme Matching -->
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laudarisd&theme=default&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500&currStreakNum=F2B84B" alt="Laudari's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laudarisd&theme=default&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500&currStreakNum=F2B84B" alt="Sudip's GitHub Streak" />
   </a>
 </p>
 
@@ -246,7 +246,7 @@
 </a>
 
 <!-- Activity Graph -->
-![Sudip Laudari's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Sudip%20Laudari's%20GitHub%20Activity%20Graph&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F)
+![Sudip's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Sudip%20Laudari's%20GitHub%20Activity%20Graph&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F)
 
 
 ---
