@@ -41,19 +41,7 @@
 ---
 <!-- About Section -->
 
-## 👋 <span style="color:#F2B84B">About Me</span>
 
-<!-- <p align="left">
-  <img align="right" src="img/1.gif" width="150" alt="Coding GIF" />
-</p> -->
-
-<img src="img/1.gif" align="right" width="200" alt="Coding GIF">
-
-
-<!-- <img src="img/1.gif" width="150" align="right"><br> -->
-<!-- <p><b><i style="color:#F2B84B;">✨ I code with coffee ☕</i></b></p> -->
-
----
 ## 👋 <span style="color:#F2B84B">About Me</span>
 
 <img src="img/1.gif" align="right" width="200" alt="Coding GIF">
@@ -96,14 +84,8 @@
 
 <!-- [![Let's share a coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F2B84B?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/laudari) -->
 
-
-
-
-
 <br/>
 
-
---- 
 
 ## 📌 <span style="color:#F2B84B">My Skills & Tools</span>
 
