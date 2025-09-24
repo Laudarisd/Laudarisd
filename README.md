@@ -56,10 +56,10 @@
    I transform messy datasets into meaningful insights, creating clear and impactful visualizations for decision-making.
 
 - 🔄 **MLOps & ETL Pipelines**  
-   Skilled in designing **end-to-end ML pipelines** — from data ingestion and cleaning (ETL) to deployment, monitoring, and scaling with modern MLOps tools.
+   Skilled in designing **end-to-end ML pipelines** - from data ingestion and cleaning (ETL) to deployment, monitoring, and scaling with modern MLOps tools.
 
 - 🌍 **Geo-Spatial Intelligence | GIS | Remote Sensing**  
-   From earth observation to smart mapping — I analyze the world from above.
+   From earth observation to smart mapping - I analyze the world from above.
 
 - 🔍 **Focused on:**  
    `LLMs`, `MLOps`, and next-gen **Generative AI Applications**
