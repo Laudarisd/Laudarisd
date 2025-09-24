@@ -173,42 +173,41 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Laudarisd/Computer-Vision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Computer-Vision&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Computer Vision" />
+      <a href="https://github.com/Laudarisd/Generative-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Generative AI" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/Generative-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Generative AI" />
+      <a href="https://github.com/Laudarisd/MLOps">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="MLOps" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Laudarisd/GIS-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="GIS Project" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Laudarisd/Vision-Transformer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Vision Transformer" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&show_owner=false&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Data Science" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Data Science" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/Extra-Codes-System-Management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Extra-Codes-System-Management&show_owner=false&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Extra Codes System Management" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Laudarisd/Vision-Transformer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Vision Transformer" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Laudarisd/Gis-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Gis-Project&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="GIS Project" />
+      <a href="https://github.com/Laudarisd/Machine_Learning_all_in_one">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Machine_Learning_all_in_one&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Machine Learning All in One" />
       </a>
     </td>
   </tr>
 </table>
-
 
 <p align="left">
   <a href="https://github.com/Laudarisd?tab=repositories" target="_blank">
