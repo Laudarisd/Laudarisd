@@ -53,16 +53,22 @@
 <!-- <img src="img/1.gif" width="150" align="right"><br> -->
 <!-- <p><b><i style="color:#F2B84B;">✨ I code with coffee ☕</i></b></p> -->
 
-<!-- #### ✨ <span style="color:#F2B84B">I’m a passionate technologist who blends code, creativity, and curiosity.</span> -->
+---
+## 👋 <span style="color:#F2B84B">About Me</span>
+
+<img src="img/1.gif" align="right" width="200" alt="Coding GIF">
 
 - 🧠 **Programming | AI | Data Science**  
-   I love solving complex problems and building intelligent solutions.
+   I love solving complex problems and building intelligent solutions that bridge research and real-world applications.
 
 - 💡 **Always exploring:**  
-   *Machine Learning, Deep Learning, and Generative AI are my playground.*
+   *Machine Learning, Deep Learning, Generative AI, and Vision Transformers are my playground.*
 
-- 📊 **Data Analysis Expert**  
-   I turn messy data into meaningful insights using advanced ML & statistics.
+- 📊 **Data Analysis & Visualization Expert**  
+   I transform messy datasets into meaningful insights, creating clear and impactful visualizations for decision-making.
+
+- 🔄 **MLOps & ETL Pipelines**  
+   Skilled in designing **end-to-end ML pipelines** — from data ingestion and cleaning (ETL) to deployment, monitoring, and scaling with modern MLOps tools.
 
 - 🌍 **Geo-Spatial Intelligence | GIS | Remote Sensing**  
    From earth observation to smart mapping — I analyze the world from above.
@@ -71,7 +77,7 @@
    `LLMs`, `MLOps`, and next-gen **Generative AI Applications**
 
 - 💻 **Tech Stack I ❤️ working with:**  
-   `Python`, `TensorFlow`, `PyTorch`, `Pandas`, `SQL`, and many more.
+   `Python`, `TensorFlow`, `PyTorch`, `Pandas`, `SQL`, `Docker`, `Airflow`, and more.
 
 - 🌐 **Beyond AI:**  
    I build modern web apps, deploy on Linux servers, and manage cloud-based pipelines.
@@ -86,6 +92,7 @@
 
 > 👉 [**Let’s share a coffee ☕**](https://www.buymeacoffee.com/laudari)
 
+---
 
 <!-- [![Let's share a coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F2B84B?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/laudari) -->
 
