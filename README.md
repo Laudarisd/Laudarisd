@@ -218,8 +218,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/Machine_Learning_all_in_one">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Machine_Learning_all_in_one&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Machine Learning All in One" />
+      <a href="https://github.com/Laudarisd/Coding_AI_Agent_From_Scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Coding_AI_Agent_From_Scratch&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Coding AI Agent From Scratch" />
       </a>
     </td>
   </tr>
