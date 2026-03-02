@@ -1,19 +1,24 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
           user: Laudarisd
           template: classic
           base: header, activity, community, repositories
@@ -27,5 +32,5 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_lines: yes
           plugin_isocalendar: yes
+          plugin_lines: yes
