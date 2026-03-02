@@ -220,7 +220,8 @@ Let’s connect.
 <!-- GitHub Stats Section - Theme Matching -->
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laudarisd&theme=default&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500&currStreakNum=F2B84B" alt="Sudip's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?
+      user=Laudarisd&theme=default&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500&currStreakNum=F2B84B" alt="Sudip's GitHub Streak" />
   </a>
 </p>
 
