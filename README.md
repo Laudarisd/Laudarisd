@@ -99,6 +99,7 @@ Let’s connect.
 ### 🤖 AI Systems & Applied Modeling
 ![Generative AI](https://img.shields.io/badge/Generative_AI-F2B84B?style=flat-square&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-F2B84B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-F2B84B?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-F2B84B?style=flat-square&logo=opencv&logoColor=white)
 ![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-F2B84B?style=flat-square)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-F2B84B?style=flat-square)
@@ -109,8 +110,8 @@ Let’s connect.
 ### ⚡ Renewable Energy & Predictive Systems
 ![Renewable Energy](https://img.shields.io/badge/Renewable_Energy_AI-94C973?style=flat-square)
 ![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square)
-![Forecasting Models](https://img.shields.io/badge/Energy_Prediction-F2B84B?style=flat-square)
-![Energy Anomaly Detection](https://img.shields.io/badge/Grid_Anomaly_Detection-F2B84B?style=flat-square)
+![Energy Forecasting](https://img.shields.io/badge/Energy_Forecasting-F2B84B?style=flat-square)
+![Grid Anomaly Detection](https://img.shields.io/badge/Grid_Anomaly_Detection-F2B84B?style=flat-square)
 
 ---
 
@@ -134,7 +135,6 @@ Let’s connect.
 ### 📊 Data & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
