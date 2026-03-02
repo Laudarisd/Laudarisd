@@ -172,36 +172,36 @@ Let’s connect.
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Generative-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Generative AI" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Generative AI" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/MLOps">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="MLOps" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="MLOps" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/GIS-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="GIS Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="GIS Project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Vision-Transformer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Vision Transformer" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Vision Transformer" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Data Science" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Data Science" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Coding_AI_Agent_From_Scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Coding_AI_Agent_From_Scratch&theme=default&border_color=F2B84B&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Coding AI Agent From Scratch" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Coding_AI_Agent_From_Scratch&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Coding AI Agent From Scratch" />
       </a>
     </td>
   </tr>
@@ -209,39 +209,38 @@ Let’s connect.
 
 <p align="left">
   <a href="https://github.com/Laudarisd?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-F2B84B?style=for-the-badge&logo=koding&logoColor=white"/>
+    <img alt="All Repositories" title="All Repositories"
+      src="https://img.shields.io/badge/All%20Repos-F2B84B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
-<!-- GitHub Stats Section - Theme Matching -->
+<!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://streak-stats.demolab.com/?
-      user=Laudarisd&theme=default&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500&currStreakNum=F2B84B" alt="Sudip's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Laudarisd&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500" alt="Sudip's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&border_color=F2B84B&icon_color=F2B84B" alt="GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=default" alt="GitHub Contribution" />
   </a>
 </p>
 
-<a>
+<p align="center">
   <a href="https://github.com/Laudarisd">
     <img alt="Sudip's Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&border_color=F2B84B"
-      height="192px" width="49.5%" />
+      src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B"
+      height="180px" />
   </a>
   <a href="https://github.com/Laudarisd">
     <img alt="Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&langs_count=8&layout=compact&theme=default&bg_color=1F1F1F&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&border_color=F2B84B"
-      height="192px" width="49.5%" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&langs_count=8&layout=compact&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973"
+      height="180px" />
   </a>
-</a>
+</p>
 
 <!-- Activity Graph -->
 ![Sudip's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Sudip%20Laudari's%20GitHub%20Activity%20Graph&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F)
