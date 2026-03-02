@@ -94,75 +94,56 @@ Let’s connect.
 <br/>
 
 
-## 📌 <span style="color:#F2B84B">My Skills & Tools</span>
+## 📌 Core Skills & Technologies
 
-### 🤖 AI & Machine Learning
-![AI](https://img.shields.io/badge/AI-F2B84B?style=for-the-badge&logo=airbnb&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F2B84B?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-F2B84B?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-F2B84B?style=for-the-badge&logo=knowledgebase&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-F2B84B?style=for-the-badge&logo=opencv&logoColor=white)
+### 🤖 AI Systems & Applied Modeling
+![Generative AI](https://img.shields.io/badge/Generative_AI-F2B84B?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-F2B84B?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-F2B84B?style=flat-square&logo=opencv&logoColor=white)
+![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-F2B84B?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-F2B84B?style=flat-square)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-F2B84B?style=flat-square)
 
-### 🛰️ Geo-Spatial & Remote Sensing
-![GIS](https://img.shields.io/badge/GIS-F2B84B?style=for-the-badge&logo=mapbox&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-94C973?style=for-the-badge&logo=earth&logoColor=white)
-![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-F2B84B?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+---
 
-### 🧠 Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### ⚡ Renewable Energy & Predictive Systems
+![Renewable Energy](https://img.shields.io/badge/Renewable_Energy_AI-94C973?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square)
+![Forecasting Models](https://img.shields.io/badge/Energy_Prediction-F2B84B?style=flat-square)
+![Energy Anomaly Detection](https://img.shields.io/badge/Grid_Anomaly_Detection-F2B84B?style=flat-square)
 
-### 📊 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-94C973?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+---
 
-### 🧮 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Mathematics](https://img.shields.io/badge/Mathematics-94C973?style=for-the-badge&logo=apachespark&logoColor=white)
+### 🧠 Deep Learning Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
 ### ⚙️ MLOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Server](https://img.shields.io/badge/Server_Management-F28500?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F2B84B?style=flat-square&logo=amazonaws&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### ☁️ Cloud & Big Data
-![AWS](https://img.shields.io/badge/AWS-F2B84B?style=for-the-badge&logo=amazonaws&logoColor=black)
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white)
+---
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-00C58E?style=for-the-badge&logo=databricks&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### 📊 Data & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+---
 
+### 🛰️ Geo-Spatial & Remote Sensing
+![GIS](https://img.shields.io/badge/GIS-F2B84B?style=flat-square)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-94C973?style=flat-square)
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-F2B84B?style=flat-square)
 
 ---
 <!-- Coding Challenge Section with Logos -->
