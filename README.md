@@ -172,36 +172,36 @@ Let’s connect.
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Generative-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Generative-AI&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Generative AI" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Generative-AI" alt="Generative-AI" width="420" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/MLOps">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=MLOps&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="MLOps" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/MLOps" alt="MLOps" width="420" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/GIS-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=GIS-Project&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="GIS Project" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/GIS-Project" alt="GIS-Project" width="420" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Vision-Transformer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Vision-Transformer&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Vision Transformer" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Vision-Transformer" alt="Vision-Transformer" width="420" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Data-Science&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Data Science" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Data-Science" alt="Data-Science" width="420" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Coding_AI_Agent_From_Scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laudarisd&repo=Coding_AI_Agent_From_Scratch&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B" alt="Coding AI Agent From Scratch" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Coding_AI_Agent_From_Scratch" alt="Coding_AI_Agent_From_Scratch" width="420" />
       </a>
     </td>
   </tr>
