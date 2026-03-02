@@ -172,36 +172,53 @@ Let’s connect.
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Generative-AI">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Generative-AI" alt="Generative-AI" width="300" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Generative-AI" width="280" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/MLOps">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/MLOps" alt="MLOps" width="300" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/MLOps" width="280" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/Laudarisd/GIS-Project">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/GIS-Project" alt="GIS-Project" width="300" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Laudarisd/Vision-Transformer">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Vision-Transformer" alt="Vision-Transformer" width="300" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/GIS-Project" width="280" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
+      <a href="https://github.com/Laudarisd/Vision-Transformer">
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Vision-Transformer" width="280" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/Laudarisd/Data-Science">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Data-Science" alt="Data-Science" width="300" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Data-Science" width="280" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Coding_AI_Agent_From_Scratch">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Coding_AI_Agent_From_Scratch" alt="Coding_AI_Agent_From_Scratch" width="300" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Coding_AI_Agent_From_Scratch" width="280" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/Laudarisd/Pose-Detection-Annotation-Tool">
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Pose-Detection-Annotation-Tool" width="280" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Laudarisd/OOB_labelImg">
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/OOB_labelImg" width="280" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Laudarisd/ultralytics">
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/ultralytics" width="280" />
       </a>
     </td>
   </tr>
@@ -209,7 +226,7 @@ Let’s connect.
 
 <p align="left">
   <a href="https://github.com/Laudarisd?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories"
+    <img alt="All Repositories"
       src="https://img.shields.io/badge/All%20Repos-F2B84B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
