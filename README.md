@@ -218,7 +218,7 @@ Let’s connect.
     </td>
     <td>
       <a href="https://github.com/Laudarisd/ultralytics">
-        <img src="https://opengraph.githubassets.com/12345/Laudarisd/ultralytics" width="280" />
+        <img src="https://opengraph.githubassets.com/123/Laudarisd/ultralytics" width="280" />
       </a>
     </td>
   </tr>
@@ -242,25 +242,29 @@ Let’s connect.
 
 <p align="center">
   <a href="https://github.com/Laudarisd">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laudarisd&theme=default" alt="GitHub Contribution" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Laudarisd">
-    <img alt="Sudip's Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B"
-      height="180px" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&hide_rank=false"
+      height="170"
+      alt="Sudip's GitHub Stats"
+    />
   </a>
   <a href="https://github.com/Laudarisd">
-    <img alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&langs_count=8&layout=compact&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973"
-      height="180px" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&layout=compact&langs_count=8&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&hide=html,css"
+      height="170"
+      alt="Top Languages"
+    />
   </a>
 </p>
 
 <!-- Activity Graph -->
-![Sudip's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&custom_title=Sudip%20Laudari's%20GitHub%20Activity%20Graph&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F)
-
+<p align="center">
+  <a href="https://github.com/Laudarisd">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F&custom_title=Sudip%20Laudari%27s%20Activity%20Graph"
+      alt="Sudip's Activity Graph"
+    />
+  </a>
+</p>
 
 ---
