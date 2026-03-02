@@ -87,7 +87,7 @@ Interested in AI systems, research collaboration, or product development?
 
 Let’s connect.
 
-☕ [Let’s share a coffee](https://www.buymeacoffee.com/laudari)
+☕ [Let’s share a coffee]([https://www.buymeacoffee.com/laudari](https://studio.buymeacoffee.com/dashboard))
 
 ---
 
