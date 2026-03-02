@@ -218,7 +218,7 @@ Let’s connect.
     </td>
     <td>
       <a href="https://github.com/Laudarisd/ultralytics">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/ultralytics" width="280" />
+        <img src="https://opengraph.githubassets.com/12345/Laudarisd/ultralytics" width="280" />
       </a>
     </td>
   </tr>
