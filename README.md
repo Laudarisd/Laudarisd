@@ -42,41 +42,41 @@
 <!-- About Section -->
 
 
-## 👋 <span style="color:#F2B84B">About Me</span>
+## 👋 About Me
 
 <img src="img/1.gif" align="right" width="200" alt="Coding GIF">
 
-- 🧠 **Programming | AI | Data Science**  
-   I love solving complex problems and building intelligent solutions that bridge research and real-world applications.
+I am an **AI/ML Engineer and Researcher** focused on building intelligent systems that move from research to real-world deployment.
 
-- 💡 **Always exploring:**  
-   *Machine Learning, Deep Learning, Generative AI, and Vision Transformers are my playground.*
+My work sits at the intersection of:
 
-- 📊 **Data Analysis & Visualization Expert**  
-   I transform messy datasets into meaningful insights, creating clear and impactful visualizations for decision-making.
+- 🤖 **Applied AI & Generative Systems**  
+  Designing LLM-powered applications, computer vision pipelines, and scalable ML systems.
 
-- 🔄 **MLOps & ETL Pipelines**  
-   Skilled in designing **end-to-end ML pipelines** - from data ingestion and cleaning (ETL) to deployment, monitoring, and scaling with modern MLOps tools.
+- 🧠 **Deep Learning & Model Optimization**  
+  From architecture design to training stability and performance tuning.
 
-- 🌍 **Geo-Spatial Intelligence | GIS | Remote Sensing**  
-   From earth observation to smart mapping - I analyze the world from above.
+- ⚙️ **MLOps & Production AI**  
+  Building end-to-end pipelines — data ingestion, training, deployment, monitoring, and scaling.
 
-- 🔍 **Focused on:**  
-   `LLMs`, `MLOps`, and next-gen **Generative AI Applications**
+- 🛰️ **Vision & Geo-Spatial Intelligence**  
+  Applying AI to computer vision, remote sensing, and structured spatial data.
 
-- 💻 **Tech Stack I ❤️ working with:**  
-   `Python`, `TensorFlow`, `PyTorch`, `Pandas`, `SQL`, `Docker`, `Airflow`, and more.
+---
 
-- 🌐 **Beyond AI:**  
-   I build modern web apps, deploy on Linux servers, and manage cloud-based pipelines.
+### What I Actually Do
 
-- 📚 **Community-driven:**  
-   I love sharing knowledge, contributing to open-source, and mentoring others.
+✔️ Build production-ready AI pipelines  
+✔️ Design and deploy LLM / RAG systems  
+✔️ Develop computer vision models (Detection, Segmentation, OBB, etc.)  
+✔️ Optimize ML systems for efficiency and scalability  
+✔️ Translate research ideas into working systems  
 
-- 🤝 **Let’s connect & collaborate:**  
-   I’m always open to meaningful projects and new challenges.
+---
 
-> 💬 _“Have a question about AI, ML, or just want to say hi? Feel free to reach out!”_
+I’m particularly interested in **LLMs, Generative AI, and next-generation AI infrastructure.**
+
+If you're building something ambitious in AI — let's connect.
 
 > 👉 [**Let’s share a coffee ☕**](https://www.buymeacoffee.com/laudari)
 
