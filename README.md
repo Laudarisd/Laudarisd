@@ -90,7 +90,6 @@ Let’s connect.
 ☕ [Let’s share a coffee](https://studio.buymeacoffee.com/dashboard)
 
 ---
-<!-- [![Let's share a coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-F2B84B?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/laudari) -->
 
 <br/>
 
