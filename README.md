@@ -146,29 +146,25 @@ Let’s connect.
 ![Geospatial Analysis](https://img.shields.io/badge/Geospatial_Analysis-F2B84B?style=flat-square)
 
 ---
-<!-- Coding Challenge Section with Logos -->
-## 💻 <span style="color:#F2B84B">Where I Sharpen My Coding Skills</span>
+## 💻 Algorithmic Practice & Competitive Coding
 
 <p align="center">
   <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" alt="LeetCode" title="LeetCode Profile" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="100" alt="HackerRank" title="HackerRank Profile" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="100" alt="HackerRank" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/wintermouse" target="_blank">
-    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="100" alt="Codewars" title="Codewars Profile" />
+    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="100" alt="Codewars" />
   </a>
 </p>
 
-<p align="center" style="color:#94C973;">
-  Explore my profiles on LeetCode, HackerRank, and Codewars – where I keep my problem-solving sharp.
+<p align="center">
+  Maintaining strong fundamentals in algorithms and data structures through regular practice.
 </p>
-
-
-
 
 ---
 
