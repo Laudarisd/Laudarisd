@@ -33,8 +33,8 @@
   <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Sudip-Laudari" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  <a href="https://scholar.google.com/citations?user=zMb_f08AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="GoogleScholar"/>
   </a>
 </p>
 
@@ -67,7 +67,6 @@ Creating end to end ML pipelines including data ingestion, training workflows, d
 🛰️ Geo Spatial Intelligence  
 Applying AI to spatial data, remote sensing, and structured geographic systems.
 
----
 
 ### What I Build
 
