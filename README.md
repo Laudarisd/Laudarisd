@@ -81,7 +81,13 @@ I am particularly interested in next generation Generative AI, Vision systems, a
 
 If you are building ambitious AI systems, I would be glad to collaborate.
 
-> 👉 [**Let’s share a coffee ☕**](https://www.buymeacoffee.com/laudari)
+---
+
+Interested in AI systems, research collaboration, or product development?
+
+Let’s connect.
+
+☕ [Let’s share a coffee](https://www.buymeacoffee.com/laudari)
 
 ---
 
