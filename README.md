@@ -172,36 +172,36 @@ Let’s connect.
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Generative-AI">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Generative-AI" alt="Generative-AI" width="420" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Generative-AI" alt="Generative-AI" width="300" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/MLOps">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/MLOps" alt="MLOps" width="420" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/MLOps" alt="MLOps" width="300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/GIS-Project">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/GIS-Project" alt="GIS-Project" width="420" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/GIS-Project" alt="GIS-Project" width="300" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Vision-Transformer">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Vision-Transformer" alt="Vision-Transformer" width="420" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Vision-Transformer" alt="Vision-Transformer" width="300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Laudarisd/Data-Science">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Data-Science" alt="Data-Science" width="420" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Data-Science" alt="Data-Science" width="300" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Laudarisd/Coding_AI_Agent_From_Scratch">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Coding_AI_Agent_From_Scratch" alt="Coding_AI_Agent_From_Scratch" width="420" />
+        <img src="https://opengraph.githubassets.com/1/Laudarisd/Coding_AI_Agent_From_Scratch" alt="Coding_AI_Agent_From_Scratch" width="300" />
       </a>
     </td>
   </tr>
