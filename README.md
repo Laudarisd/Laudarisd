@@ -46,37 +46,40 @@
 
 <img src="img/1.gif" align="right" width="200" alt="Coding GIF">
 
-I am an **AI/ML Engineer and Researcher** focused on building intelligent systems that move from research to real-world deployment.
+I am an AI and Machine Learning Engineer focused on building production grade intelligent systems.
 
-My work sits at the intersection of:
+My work combines research depth with real world deployment. I design, build, and scale AI solutions that move beyond experiments into reliable products.
 
-- 🤖 **Applied AI & Generative Systems**  
-  Designing LLM-powered applications, computer vision pipelines, and scalable ML systems.
+### Core Focus Areas
 
-- 🧠 **Deep Learning & Model Optimization**  
-  From architecture design to training stability and performance tuning.
+🤖 Generative AI and LLM Systems  
+Designing RAG pipelines, AI agents, and large language model powered applications.
 
-- ⚙️ **MLOps & Production AI**  
-  Building end-to-end pipelines — data ingestion, training, deployment, monitoring, and scaling.
+📊 Time Series Analysis and Forecasting  
+Building predictive models for energy, finance, and industrial systems with strong emphasis on robustness and causal reasoning.
 
-- 🛰️ **Vision & Geo-Spatial Intelligence**  
-  Applying AI to computer vision, remote sensing, and structured spatial data.
+👁️ Computer Vision Products  
+Developing detection, segmentation, and OBB based vision systems and transforming them into deployable products.
 
----
+⚙️ MLOps and AI Infrastructure  
+Creating end to end ML pipelines including data ingestion, training workflows, deployment, monitoring, and scaling.
 
-### What I Actually Do
-
-✔️ Build production-ready AI pipelines  
-✔️ Design and deploy LLM / RAG systems  
-✔️ Develop computer vision models (Detection, Segmentation, OBB, etc.)  
-✔️ Optimize ML systems for efficiency and scalability  
-✔️ Translate research ideas into working systems  
+🛰️ Geo Spatial Intelligence  
+Applying AI to spatial data, remote sensing, and structured geographic systems.
 
 ---
 
-I’m particularly interested in **LLMs, Generative AI, and next-generation AI infrastructure.**
+### What I Build
 
-If you're building something ambitious in AI — let's connect.
+✔ Production ready AI pipelines  
+✔ LLM and RAG based applications  
+✔ Time series forecasting systems  
+✔ Computer vision products from research to deployment  
+✔ Scalable ML infrastructure  
+
+I am particularly interested in next generation Generative AI, Vision systems, and intelligent AI infrastructure.
+
+If you are building ambitious AI systems, I would be glad to collaborate.
 
 > 👉 [**Let’s share a coffee ☕**](https://www.buymeacoffee.com/laudari)
 
