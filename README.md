@@ -235,6 +235,24 @@ Let’s connect.
 
 <!-- GitHub Stats -->
 <p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Laudarisd">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F&custom_title=Sudip%20Laudari%27s%20Activity%20Graph"
+      alt="Sudip's Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
   <a href="https://github.com/Laudarisd">
     <img src="https://streak-stats.demolab.com?user=Laudarisd&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500" alt="Sudip's GitHub Streak" />
   </a>
