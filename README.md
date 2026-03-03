@@ -238,9 +238,5 @@ Let’s connect.
     <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution (Season)" />
   </a>
 </p>
-
----
-
----
 ---
 ---
