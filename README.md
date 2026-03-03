@@ -234,8 +234,8 @@ Let’s connect.
 ---
 
 <p align="center">
-  <a href="./metrics-3d.svg">
-    <img src="./metrics-3d.svg" alt="3D Contribution Calendar" />
+  <a href="./profile-3d-contrib/profile-season-animate.svg">
+    <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution (Season)" />
   </a>
 </p>
 
@@ -277,6 +277,8 @@ Let’s connect.
 <p align="center">
   Rotate and explore my contributions in 3D.
 </p>
+
+---
 
 ---
 
