@@ -233,55 +233,39 @@ Let’s connect.
 
 ---
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Laudarisd">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F&custom_title=Sudip%20Laudari%27s%20Activity%20Graph"
-      alt="Sudip's Activity Graph"
-    />
+  <a href="./metrics-3d.svg">
+    <img src="./metrics-3d.svg" alt="3D Contribution Calendar" />
   </a>
 </p>
 
 ---
 
+<table>
+  <tr>
+    <td width="70%">
+      <a href="https://github.com/Laudarisd">
+        <img
+          src="https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F&custom_title=Sudip%20Laudari%27s%20Activity%20Graph"
+          alt="Sudip's Activity Graph"
+        />
+      </a>
+    </td>
+    <td width="30%">
+      <a href="https://github.com/Laudarisd">
+        <img
+          src="https://streak-stats.demolab.com?user=Laudarisd&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500"
+          alt="Sudip's GitHub Streak"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
-
-<!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/Laudarisd">
-    <img src="https://streak-stats.demolab.com?user=Laudarisd&background=1F1F1F&border=F2B84B&ring=F2B84B&currStreakLabel=F2B84B&sideNums=F2B84B&sideLabels=94C973&dates=94C973&fire=F28500" alt="Sudip's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Laudarisd">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Laudarisd&show_icons=true&count_private=true&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&icon_color=F2B84B&hide_rank=false"
-      height="170"
-      alt="Sudip's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Laudarisd">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laudarisd&layout=compact&langs_count=8&bg_color=1F1F1F&border_color=F2B84B&title_color=F2B84B&text_color=94C973&hide=html,css"
-      height="170"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Laudarisd">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Laudarisd&bg_color=1F1F1F&title_color=F2B84B&color=94C973&line=F2B84B&point=94C973&area=true&area_color=1F1F1F&custom_title=Sudip%20Laudari%27s%20Activity%20Graph"
-      alt="Sudip's Activity Graph"
-    />
+  <a href="./metrics-main.svg">
+    <img src="./metrics-main.svg" alt="GitHub Metrics Summary" />
   </a>
 </p>
 
