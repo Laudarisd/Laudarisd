@@ -264,6 +264,13 @@ Let’s connect.
   </tr>
 </table>
 
+<iframe
+		src="https://skyline3d.in/laudarisd/embed?endDate=2026-03-03&enableZoom=false"
+		width="100%"
+		height="100%"
+		frameborder="0"
+	></iframe>
+
 ---
 ---
 ---
