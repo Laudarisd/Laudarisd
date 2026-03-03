@@ -1,58 +1,34 @@
-name: Metrics
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: metrics
+  group: profile-3d
   cancel-in-progress: true
 
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # 1) 3D calendar only (clean, no extra text)
-      - name: Generate 3D calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Laudarisd
-          filename: metrics-3d.svg
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-          # IMPORTANT: hide the big text blocks
-          base: ""
-
-          config_timezone: Asia/Seoul
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      # 2) Optional: compact main metrics (keep if you want)
-      - name: Generate main metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Laudarisd
-          filename: metrics-main.svg
-
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Asia/Seoul
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: bytes-size, percentage
-
-          plugin_lines: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          if git commit -m "generated"; then
+            git push
+          fi
