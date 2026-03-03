@@ -264,12 +264,21 @@ Let’s connect.
   </tr>
 </table>
 
-<iframe
-		src="https://skyline3d.in/laudarisd/embed?endDate=2026-03-03&enableZoom=false"
-		width="100%"
-		height="100%"
-		frameborder="0"
-	></iframe>
+---
+
+## 🏙️ 3D GitHub Skyline
+
+<p align="center">
+  <a href="https://skyline3d.in/laudarisd/embed?endDate=2026-03-03&enableZoom=false" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%203D%20GitHub%20Skyline-F2B84B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Rotate and explore my contributions in 3D.
+</p>
+
+---
 
 ---
 ---
