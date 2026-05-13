@@ -166,7 +166,7 @@ Current areas of focus:
 
 If you are working on research, product AI, or applied engineering systems, I am open to thoughtful collaboration.
 
-<p>
+<!-- <p>
   <a href="https://laudarisd.github.io/" target="_blank">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7E5A3C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -175,4 +175,4 @@ If you are working on research, product AI, or applied engineering systems, I am
   <a href="https://scholar.google.com/citations?user=zMb_f08AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-A67C52?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
-</p>
+</p> -->
