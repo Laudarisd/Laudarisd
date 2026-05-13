@@ -28,6 +28,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7E5A3C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn icon link" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=zMb_f08AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-A67C52?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar icon link" />
+  </a>
+  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-B8894C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode icon link" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-6B8F63?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank icon link" />
+  </a>
+</p>
+
 ---
 
 ## Field Notes
@@ -130,11 +145,15 @@ Current areas of focus:
 ## Practice Bench
 
 <p align="center">
-  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">LeetCode</a>
-  ·
-  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">HackerRank</a>
-  ·
-  <a href="https://www.codewars.com/users/wintermouse" target="_blank">Codewars</a>
+  <a href="https://leetcode.com/u/dbBO1xrtst/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-B8894C?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sudiplaudari" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-6B8F63?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codewars.com/users/wintermouse" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-7E5A3C?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
 </p>
 
 <p align="center">
@@ -149,6 +168,11 @@ If you are working on research, product AI, or applied engineering systems, I am
 
 <p>
   <a href="https://laudarisd.github.io/" target="_blank">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=zMb_f08AAAAJ&hl=en" target="_blank">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/laudari-sudip/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7E5A3C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  ·
+  <a href="https://scholar.google.com/citations?user=zMb_f08AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-A67C52?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
 </p>
