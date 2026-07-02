@@ -176,7 +176,9 @@ Current areas of focus:
 
 ## Correspondence
 
-If you are working on research, product AI, or applied engineering systems, I am open to thoughtful collaboration.
+I am open to research collaboration in applied mathematics, computational modelling, AI/ML, computer vision, geospatial systems, and engineering applications.
+
+If your work connects mathematical methods with real-world systems, feel free to reach out.
 
 <!-- <p>
   <a href="https://laudarisd.github.io/" target="_blank">Portfolio</a> ·
