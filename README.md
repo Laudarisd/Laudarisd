@@ -47,16 +47,17 @@
 
 ## Field Notes
 
-I build applied AI systems that are meant to survive outside research notebooks.
-My work usually sits at the intersection of research depth, product engineering,
-and deployable infrastructure.
+I build applied mathematical and AI systems that are meant to survive outside research notebooks.
+My work usually sits at the intersection of mathematical modelling, research depth,
+product engineering, and deployable infrastructure.
 
 Current areas of focus:
 
+- Applied mathematics, computational modelling, and numerical algorithms
 - Generative AI, RAG systems, and agent workflows
 - Computer vision, OCR, and multimodal applications
-- Time-series forecasting and anomaly detection
-- GIS, remote sensing, and geospatial analytics
+- Time-series modelling and anomaly detection
+- GIS, remote sensing, and geospatial systems
 - ML pipelines, backend services, and production deployment
 
 ---
