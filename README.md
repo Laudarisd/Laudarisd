@@ -9,11 +9,11 @@
 </p>
 
 <h1 align="center">Sudip Laudari</h1>
-<p align="center"><i>Researcher / Educator / AI Engineer</i></p>
+<p align="center"><i>Applied Mathematician / Data Scientist / AI & ML Researcher</i></p>
 
 <p align="center">
-  AI/ML engineer working across generative AI, computer vision, geospatial systems,
-  time-series modelling, and production-oriented intelligent infrastructure.
+  Applied mathematics and AI/ML researcher working across computational modelling,
+  computer vision, geospatial systems, time-series modelling, and intelligent infrastructure.
 </p>
 
 <p align="center">
