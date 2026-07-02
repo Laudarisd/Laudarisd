@@ -64,6 +64,17 @@ Current areas of focus:
 
 ## Working Desk
 
+**Mathematical Foundations**
+
+![Mathematical Modelling](https://img.shields.io/badge/Mathematical_Modelling-6E5A8A?style=flat-square)
+![Graph Theory](https://img.shields.io/badge/Graph_Theory-6E5A8A?style=flat-square)
+![Matrix Theory](https://img.shields.io/badge/Matrix_Theory-6E5A8A?style=flat-square)
+![Numerical Methods](https://img.shields.io/badge/Numerical_Methods-6E5A8A?style=flat-square)
+![Optimisation](https://img.shields.io/badge/Optimisation-6E5A8A?style=flat-square)
+![Computational Geometry](https://img.shields.io/badge/Computational_Geometry-6E5A8A?style=flat-square)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6E5A8A?style=flat-square)
+![Probabilistic Reasoning](https://img.shields.io/badge/Probabilistic_Reasoning-6E5A8A?style=flat-square)
+
 **AI and Applied Modelling**
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-B8894C?style=flat-square)
