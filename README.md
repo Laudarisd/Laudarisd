@@ -107,41 +107,57 @@ Current areas of focus:
 
 ---
 
-## Selected Repositories
+## Featured Portfolio
+
+Six focused repositories organize my public work by domain: generative AI,
+research, data science, agents, computer vision and machine learning, and
+digital twins.
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Laudarisd/Generative-AI">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Generative-AI" width="280" alt="Generative-AI repository card" />
+      <a href="https://github.com/Laudarisd/generative-ai">
+        <img src="assets/projects/generative-ai.webp" width="280" alt="Generative AI project thumbnail" />
       </a>
+      <br /><strong>Generative AI</strong><br />
+      LLMs, transformers, RAG, multimodal systems, and fine-tuning.
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/Coding_AI_Agent_From_Scratch">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Coding_AI_Agent_From_Scratch" width="280" alt="Coding AI Agent From Scratch repository card" />
+      <a href="https://github.com/Laudarisd/research">
+        <img src="assets/projects/research.webp" width="280" alt="Research project thumbnail" />
       </a>
+      <br /><strong>Research</strong><br />
+      Centrality, augmentation, graph learning, PINNs, and reproducible experiments.
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/GIS-Project">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/GIS-Project" width="280" alt="GIS-Project repository card" />
+      <a href="https://github.com/Laudarisd/data-science">
+        <img src="assets/projects/data-science.webp" width="280" alt="Data Science project thumbnail" />
       </a>
+      <br /><strong>Data Science</strong><br />
+      Statistics, forecasting, anomaly detection, and practical analytics.
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Laudarisd/Vision-Transformer">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Vision-Transformer" width="280" alt="Vision-Transformer repository card" />
+      <a href="https://github.com/Laudarisd/agent-collection">
+        <img src="assets/projects/ai-agents.webp" width="280" alt="AI Agents project thumbnail" />
       </a>
+      <br /><strong>Agent Collection</strong><br />
+      Job, task, automation, and tool-using agent workflows.
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/Data-Science">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/Data-Science" width="280" alt="Data-Science repository card" />
+      <a href="https://github.com/Laudarisd/computer-vision-and-machine-learning">
+        <img src="assets/projects/computer-vision-ml.webp" width="280" alt="Computer Vision and Machine Learning project thumbnail" />
       </a>
+      <br /><strong>Computer Vision &amp; ML</strong><br />
+      Detection, OCR, annotation, vision transformers, deployment, and MLOps.
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/MLOps">
-        <img src="https://opengraph.githubassets.com/1/Laudarisd/MLOps" width="280" alt="MLOps repository card" />
+      <a href="https://github.com/Laudarisd/digital-twin-and-spatial-ai">
+        <img src="assets/projects/digital-twin.webp" width="280" alt="Digital Twin project thumbnail" />
       </a>
+      <br /><strong>Digital Twin</strong><br />
+      Physical-system simulation, reconstruction, 3D, and spatial intelligence.
     </td>
   </tr>
 </table>
