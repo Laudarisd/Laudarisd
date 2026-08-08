@@ -146,7 +146,7 @@ digital twins.
       Job, task, automation, and tool-using agent workflows.
     </td>
     <td>
-      <a href="https://github.com/Laudarisd/computer-vision-and-machine-learning">
+      <a href="https://github.com/Laudarisd/Machine-Learning-Projects"> 
         <img src="assets/projects/computer-vision-ml.webp" width="280" alt="Computer Vision and Machine Learning project thumbnail" />
       </a>
       <br /><strong>Computer Vision &amp; ML</strong><br />
