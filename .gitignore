@@ -1,1 +1,11 @@
 .DS_Store
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local-only files
+Thumbs.db
+__pycache__/
+*.pyc
