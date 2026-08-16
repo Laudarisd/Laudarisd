@@ -109,52 +109,66 @@ Current areas of focus:
 
 ## Featured Portfolio
 
-Six focused repositories organize my public work by domain: generative AI,
-research, data science, agents, computer vision and machine learning, and
-digital twins.
+Eight focused repositories organize my public work across local AI tooling,
+generative AI, agents, computer vision, research, reservoir computing, data
+science, and digital twins.
 
 <table>
   <tr>
-    <td>
+    <td width="25%" valign="top">
+      <a href="https://github.com/Laudarisd/vectra">
+        <img src="assets/projects/vectra-logo.png" width="210" alt="Vectra project logo" />
+      </a>
+      <br /><strong>Vectra</strong><br />
+      Privacy-focused local AI coding, agent tools, and model discovery.
+    </td>
+    <td width="25%" valign="top">
       <a href="https://github.com/Laudarisd/generative-ai">
-        <img src="assets/projects/generative-ai.webp" width="280" alt="Generative AI project thumbnail" />
+        <img src="assets/projects/generative-ai.webp" width="210" alt="Generative AI project thumbnail" />
       </a>
       <br /><strong>Generative AI</strong><br />
       LLMs, transformers, RAG, multimodal systems, and fine-tuning.
     </td>
-    <td>
-      <a href="https://github.com/Laudarisd/research">
-        <img src="assets/projects/research.webp" width="280" alt="Research project thumbnail" />
-      </a>
-      <br /><strong>Research</strong><br />
-      Centrality, augmentation, graph learning, PINNs, and reproducible experiments.
-    </td>
-    <td>
-      <a href="https://github.com/Laudarisd/data-science">
-        <img src="assets/projects/data-science.webp" width="280" alt="Data Science project thumbnail" />
-      </a>
-      <br /><strong>Data Science</strong><br />
-      Statistics, forecasting, anomaly detection, and practical analytics.
-    </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="25%" valign="top">
       <a href="https://github.com/Laudarisd/agent-collection">
-        <img src="assets/projects/ai-agents.webp" width="280" alt="AI Agents project thumbnail" />
+        <img src="assets/projects/ai-agents.webp" width="210" alt="AI Agents project thumbnail" />
       </a>
       <br /><strong>Agent Collection</strong><br />
       Job, task, automation, and tool-using agent workflows.
     </td>
-    <td>
-      <a href="https://github.com/Laudarisd/Machine-Learning-Projects"> 
-        <img src="assets/projects/computer-vision-ml.webp" width="280" alt="Computer Vision and Machine Learning project thumbnail" />
+    <td width="25%" valign="top">
+      <a href="https://github.com/Laudarisd/Machine-Learning-Projects">
+        <img src="assets/projects/computer-vision-ml.webp" width="210" alt="Computer Vision and Machine Learning project thumbnail" />
       </a>
       <br /><strong>Computer Vision &amp; ML</strong><br />
       Detection, OCR, annotation, vision transformers, deployment, and MLOps.
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <a href="https://github.com/Laudarisd/research">
+        <img src="assets/projects/research.webp" width="210" alt="Research project thumbnail" />
+      </a>
+      <br /><strong>Research</strong><br />
+      Centrality, augmentation, graph learning, PINNs, and reproducible experiments.
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://github.com/Laudarisd/dmp_esn">
+        <img src="assets/projects/dmp-esn.webp" width="210" alt="DMP and echo state network project thumbnail" />
+      </a>
+      <br /><strong>DMP &amp; ESN</strong><br />
+      Dynamical learning, reservoir pruning, forecasting, and adaptive control.
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://github.com/Laudarisd/data-science">
+        <img src="assets/projects/data-science.webp" width="210" alt="Data Science project thumbnail" />
+      </a>
+      <br /><strong>Data Science</strong><br />
+      Statistics, forecasting, anomaly detection, and practical analytics.
+    </td>
+    <td width="25%" valign="top">
       <a href="https://github.com/Laudarisd/digital-twin-and-spatial-ai">
-        <img src="assets/projects/digital-twin.webp" width="280" alt="Digital Twin project thumbnail" />
+        <img src="assets/projects/digital-twin.webp" width="210" alt="Digital Twin project thumbnail" />
       </a>
       <br /><strong>Digital Twin</strong><br />
       Physical-system simulation, reconstruction, 3D, and spatial intelligence.
