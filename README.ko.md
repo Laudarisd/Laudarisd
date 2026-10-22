@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/Laudarisd/Laudarisd/blob/main/README.md">English</a> &nbsp;|&nbsp; <strong>한국어</strong>
+</p>
+
 <a href="https://komarev.com/ghpvc/?username=Laudarisd" target="_blank">
   <img align="right" src="https://komarev.com/ghpvc/?username=Laudarisd&label=Visitors&color=B8894C&style=flat-square" alt="Profile visitor counter" />
 </a>
@@ -10,10 +14,6 @@
 
 <h1 align="center">Sudip Laudari</h1>
 <p align="center"><i>Applied Mathematician / Data Scientist / AI & ML Researcher</i></p>
-
-<p align="center">
-  <a href="https://github.com/Laudarisd/Laudarisd/blob/main/README.md">English</a> &nbsp;|&nbsp; <strong>한국어</strong>
-</p>
 
 <p align="center">
   <a href="https://laudarisd.github.io/" target="_blank">
