@@ -117,7 +117,7 @@ Reservoir Computing, 데이터 사이언스(Data Science), 디지털 트윈(Digi
   <tr>
     <td width="25%" valign="top">
       <a href="https://github.com/Laudarisd/vectra">
-        <img src="assets/projects/vectra-logo.png" width="210" alt="Vectra 프로젝트 로고" />
+        <img src="assets/projects/vectra.webp" width="210" alt="Vectra 프로젝트 로고" />
       </a>
       <br /><strong>Vectra</strong><br />
       프라이버시 중심의 로컬 AI 코딩(Local AI Coding), AI Agent 도구, 모델 탐색(Model Discovery).

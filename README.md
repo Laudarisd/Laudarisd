@@ -117,7 +117,7 @@ science, and digital twins.
   <tr>
     <td width="25%" valign="top">
       <a href="https://github.com/Laudarisd/vectra">
-        <img src="assets/projects/vectra-logo.png" width="210" alt="Vectra project logo" />
+        <img src="assets/projects/vectra.webp" width="210" alt="Vectra project logo" />
       </a>
       <br /><strong>Vectra</strong><br />
       Privacy-focused local AI coding, agent tools, and model discovery.
